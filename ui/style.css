@@ -58,12 +58,4 @@ body {
   max-height: 600px;
   max-width: 600px;
 }
-.mark{
-	height: 50px;
-	width: 600px;
-	margin-top: 10px;
-	position: relative;
-	background-color:#FAA;
-	border-radius: 16px 15px 15px 15px;
-	padding: 9px 22px 9px 25px;
-	}
+
